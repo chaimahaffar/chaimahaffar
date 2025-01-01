@@ -5,8 +5,7 @@ I’m an Engineering student in Advanced Technologies, specializing in Advanced 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ChaimaHaffar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="ChaimaHaffar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
+[<img align="left" alt="ChaimaHaffar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="ChaimaHaffar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
 [linkedin]: https://www.linkedin.com/in/chaima-haffar/  
 [github]: https://github.com/chaimahaffar
