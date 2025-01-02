@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chaima Haffar! <br/><a href="https://github.com/ChaimaHaffar">Computer Vision Enthusiast</a>, <a href="https://www.linkedin.com/in/chaima-haffar/">Engineering Student</a> </h1>
 
-<h2>👨‍💻 Software and AI Projects:</h2>
+<h2>👨‍💻 AI Projects:</h2>
 I’m an Engineering student in Advanced Technologies, specializing in Advanced Electronics and Nanotechnology. I’m particularly interested in computer vision, machine learning, and their applications in industrial automation.
 
 <h2> 🤳 Connect with me:</h2>
