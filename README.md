@@ -6,8 +6,8 @@ I’m an Engineering student in Advanced Technologies, specializing in Advanced 
 <h3>📘 Featured Projects:</h3>
 
 - <b><a href="https://github.com/ChaimaHaffar/Plant-Disease-Detection">Plant Disease Detection System</a></b>: A system for detecting and segmenting plant diseases using leaf images. The model utilizes **Detectron2** for disease segmentation, helping in the early detection and treatment of plant diseases.
-- <b><a href="https://github.com/ChaimaHaffar/Label-Detection-and-Extraction">Real-Time Label Detection and Extraction</a></b>: A real-time system for detecting and extracting label information from packaging using YOLO for label detection and OCR for text extraction. This system helps with industrial traceability by automatically reading labels and capturing vital data from packaging.
-- <b><a href="https://github.com/ChaimaHaffar/Real-Time-Age-Detection">Real-Time Age Detection System</a></b>: A system that detects the age of individuals in real-time using a pre-trained VGG16 model, providing insights into age estimation from facial features.
+- <b><a href="https://github.com/ChaimaHaffar/Real-Time-Label-Detection-and-Information-Extraction">Real-Time Label Detection and Extraction</a></b>: A real-time system for detecting and extracting label information from packaging using YOLO for label detection and OCR for text extraction. This system helps with industrial traceability by automatically reading labels and capturing vital data from packaging.
+- <b><a href="https://github.com/ChaimaHaffar/Real-Time-Age-Detection-System">Real-Time Age Detection System</a></b>: A system that detects the age of individuals in real-time using a pre-trained VGG16 model, providing insights into age estimation from facial features.
 - <b><a href="https://github.com/ChaimaHaffar/Book-Recommendation-System">Book Recommendation System</a></b>: A system designed to recommend books based on user and item similarity, leveraging collaborative and content-based filtering techniques.
 
 
