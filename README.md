@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chaima Haffar! <br/><a href="https://github.com/ChaimaHaffar">Data & Computer Vision Engineer</a>, <a href="https://www.linkedin.com/in/chaima-haffar/">AI & Deep Learning Enthusiast</a> </h1>
+<h1>Hi, I'm Chaima Haffar! <br/><a href="https://github.com/ChaimaHaffar">Data & Computer Vision Engineer</a> </h1>
 
 <h2>👨‍💻 AI Projects:</h2>
 I’m particularly interested in computer vision, machine learning, and their applications in industrial automation.
