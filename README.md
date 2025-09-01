@@ -9,6 +9,9 @@ I’m particularly interested in computer vision, machine learning, and their ap
 - <b><a href="https://github.com/ChaimaHaffar/Real-Time-Label-Detection-and-Information-Extraction">Real-Time Label Detection and Extraction</a></b>: A real-time system for detecting and extracting label information from packaging using YOLO for label detection and OCR for text extraction. This system helps with industrial traceability by automatically reading labels and capturing vital data from packaging.
 - <b><a href="https://github.com/ChaimaHaffar/Real-Time-Age-Detection-System">Real-Time Age Detection System</a></b>: A system that detects the age of individuals in real-time using a pre-trained VGG16 model, providing insights into age estimation from facial features.
 - <b><a href="https://github.com/ChaimaHaffar/Book-Recommendation-System">Book Recommendation System</a></b>: A system designed to recommend books based on user and item similarity, leveraging collaborative and content-based filtering techniques.
+- <b><a href="https://github.com/ChaimaHaffar/hand-tracking-mediapipe">A basic computer vision project</a></b>:A real-time hand tracking system using Mediapipe and OpenCV.
+The program detects hand landmarks (key points of fingers and connections) and draws them on the live webcam feed. It also calculates and displays the Frames Per Second (FPS) to measure performance.
+  
 
 
 <h2> 🤳 Connect with me:</h2>
