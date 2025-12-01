@@ -16,7 +16,7 @@ I’m particularly interested in computer vision, machine learning, and their ap
 
 [<img align="left" alt="ChaimaHaffar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="ChaimaHaffar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
-[linkedin]: https://www.linkedin.com/in/chaima-haffar/  
+[linkedin]: https://www.linkedin.com/in/haffar-chaima-2a035a246/ 
 [github]: https://github.com/chaimahaffar
 
 <!--
