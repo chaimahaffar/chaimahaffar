@@ -11,6 +11,7 @@ I’m particularly interested in computer vision, machine learning, and their ap
 - <b><a href="https://github.com/ChaimaHaffar/Book-Recommendation-System">Book Recommendation System</a></b>: A system designed to recommend books based on user and item similarity, leveraging collaborative and content-based filtering techniques.
 - <b><a href="https://github.com/ChaimaHaffar/hand-tracking-mediapipe">hand-tracking-mediapipe : </a></b>A basic computer vision project for real-time hand tracking. Detects hand landmarks and draws them on the webcam feed while displaying FPS, using Mediapipe and OpenCV.
 - <b><a href="https://github.com/ChaimaHaffar/Titanic---Machine-Learning-from-Disaster"> Titanic - Machine Learning from Disaster : </a></b> A machine learning project predicting passenger survival on the Titanic using the Kaggle Titanic dataset.
+- <b><a href="https://github.com/chaimahaffar/HR-dashboard-powerBI"> HR-dashboard-powerBI : </a></b> Interactive HR Dashboard developed in Power BI to analyze employee data, monitor promotions, layoffs, performance evaluations, and visualize key HR metrics.
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ChaimaHaffar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="ChaimaHaffar | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
