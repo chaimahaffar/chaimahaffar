@@ -5,7 +5,7 @@ I’m particularly interested in computer vision, machine learning, and their ap
 
 <h3>📘 Featured Projects:</h3>
 
-- <b><a href="https://github.com/chaimahaffar/Chat-with-Documents-RAG-System">Chat-with-Documents — RAG System:</a></b>
+- <b><a href="https://github.com/chaimahaffar/Assistant-IA-Chat-with-Documents-RAG-System">Chat-with-Documents — RAG System:</a></b>
 A Retrieval-Augmented Generation (RAG) system for question answering over PDF documents, with local LLM inference via Ollama. The project includes a complete evaluation pipeline for retrieval and generation and an interactive Streamlit interface, focusing on grounded, explainable, and measurable document-based AI.
 - <b><a href="https://github.com/ChaimaHaffar/Plant-Disease-Detection">Plant Disease Detection System</a></b>: A system for detecting and segmenting plant diseases using leaf images. The model utilizes **Detectron2** for disease segmentation, helping in the early detection and treatment of plant diseases.
 - <b><a href="https://github.com/ChaimaHaffar/Real-Time-Label-Detection-and-Information-Extraction">Real-Time Label Detection and Extraction</a></b>: A real-time system for detecting and extracting label information from packaging using YOLO for label detection and OCR for text extraction. This system helps with industrial traceability by automatically reading labels and capturing vital data from packaging.
